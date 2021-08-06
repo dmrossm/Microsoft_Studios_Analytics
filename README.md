@@ -2,9 +2,11 @@
 
 ## Overview
 
+Microsoft intends to add a movie studio division to its business portfolio. In doing so it needs insights into how it can maximize profit and minimize cost within this new division of its rather large company.
+
 ## Business Problem:
 
-Microsoft intends to add a movie studio division to its business portfolio. In doing so it needs insights into how it can maximize profit and minimize cost within this new division of its rather large company.
+What insights can we provide to Microsoft to maximize chances of success in terms of profits (ROI) from its soon to be movie studio.
 
 ## Data:
 My data was derived from https://www.imdb.com (IMDB = Internet Movie Database) and https://www.the-numbers.com and consisted of two csv's based on data from those websites.
@@ -15,6 +17,7 @@ These descriptive statistics led me choose to me compare ROI to release month, r
 
 ## Analysis
 
+![image](./download.png)
 
 ## Results
 - In order to maximize ROI:
