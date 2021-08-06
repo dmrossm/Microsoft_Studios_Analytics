@@ -39,7 +39,9 @@ After heavy research by individual film and subsequent data cleaning, I was able
 ## Conclusions
 - In order to maximize ROI:
 a) Aim to release films during June, while avoiding March.
+
 b) Aim to release films of length between 75 and 135 min.
+
 c) Aim to purchase scripts for horror and drama films.
 
 ## Next Steps
