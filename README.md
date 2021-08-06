@@ -15,7 +15,12 @@ These descriptive statistics led me choose to me compare ROI to release month, r
 
 ## Analysis
 
+
 ## Results
+- In order to maximize ROI:
+a) Aim to release films during June, while avoiding March.
+b) Aim to release films of length between 75 and 135 min.
+c) Aim to purchase scripts for horror and drama films.
 
 ## Conclusions
 
@@ -23,6 +28,6 @@ These descriptive statistics led me choose to me compare ROI to release month, r
 
 # For More Information
 
-See the full analysis in the Jupyter Notebook (MS_Studios_notebook.ipynb) or review this 
+See the full analysis in the Jupyter Notebook () or review this 
 
 
