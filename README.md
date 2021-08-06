@@ -28,6 +28,6 @@ c) Aim to purchase scripts for horror and drama films.
 
 # For More Information
 
-See the full analysis in the Jupyter Notebook () or review this 
+See the full analysis in the [Jupyter Notebook](./Jupyter_Notebook.ipynb) or review this [presentation](./Jupyter_Notebook.ipynb).
 
 
