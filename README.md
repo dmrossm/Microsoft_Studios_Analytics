@@ -19,6 +19,10 @@ These descriptive statistics led me choose to me compare ROI to release month, r
 
 ![image](./download.png)
 
+![image](./download_(1).png)
+
+![image](./download_(2).png)
+
 ## Results
 - In order to maximize ROI:
 a) Aim to release films during June, while avoiding March.
